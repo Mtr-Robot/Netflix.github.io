@@ -311,7 +311,7 @@ footer .questions {
     width: 100%;
     background-color: black;
     color: white;
-    overflow-x: auto;
+    overflow-x: hidden;
     box-sizing: border-box;
     padding: 20px 0;
 
